@@ -10,6 +10,7 @@ A data journalist requires a data visualization and in-depth filtering of a prov
 
 ## Resources
 Data Source: data.js
+
 Software: Visual Studio Code 1.52.1, Bootstrap 4.0.0, Javascript ES6+
 
 ## Results
